@@ -7,9 +7,9 @@ import streamlit as st
 load_dotenv()
 APPLICATION_TOKEN = os.getenv("APP_TOKEN")
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "8eb85d7d-c528-4be6-88c5-4ebec5b46db0"
-FLOW_ID = "1bb0d28e-080d-4359-bdcb-b09b88eb0a3e"
-ENDPOINT = "customer" # The endpoint name of the flow
+LANGFLOW_ID = "GET_THIS_FROM_LANGFLOW"
+FLOW_ID = "GET_THIS_FROM_LANGFLOW"
+ENDPOINT = "GET_THIS_FROM_LANGFLOW" # The endpoint name of the flow
 
 
 def run_flow(message: str) -> dict:
