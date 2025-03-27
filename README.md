@@ -1,0 +1,2 @@
+# FAQ Agent using RAG
+ This project is a general FAQ agent powered by Retrieval-Augmented Generation (RAG), designed to assist businesses with customer support. It allows companies to upload a PDF containing relevant information, such as product details or policies, which the agent then uses to answer customer FAQs accurately. By integrating this agent into their applications, businesses can provide efficient, automated responses tailored to their specific data, enhancing customer experience with quick and reliable support.
