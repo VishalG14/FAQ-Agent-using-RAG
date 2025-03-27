@@ -49,5 +49,3 @@ Or just use it online.
 Integrate the query flow into your application to provide automated FAQ responses. 🤖
 Update the PDF in the ingest flow to adapt the agent for different datasets. 🔄
 
-### License 📜
-This project is licensed under the MIT License. See the  file for details.
